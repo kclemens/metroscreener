@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Metro Scraper</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <center><input type="text" size="60" placeholder="type to filter" style="text-align:center"><table><tbody></tbody></table></center>
+</body>
+    <script>
+function row_to_html_string(row) {
+    var img = '<td><img src="' + row.img_url + '" width="90" height="90" alt="" loading="lazy"></td>';
+    var name = '<td style="text-align:center">' + row.name + '</td>';
+    var price = '<td>' + row[Object.keys(row).slice(-2, -1)] + '</td>';
+
+    var price_keys = Object.keys(row).slice(4);
+    var os = price_keys.filter((key, index) => {return index % 2 == 0 && row[key] != ''}).map((key, index) => {return row[key]}).join();
+    var ds = price_keys.filter((key, index) => {return index % 2 == 1 && row[key] != ''}).map((key, index) => {return row[key]}).join();
+    var price_history = '<td><img src="https://chart.googleapis.com/chart?chs=90x90&cht=ls&chco=0077CC,FF0000&chd=t:' + os + '|' + ds + '" loading="lazy"></td>'
+
+    return img+name+price+price_history;
+}
+
+d3.tsv('history.csv').then((data) => {
+    d3.select('tbody')
+      .selectAll('tr')
+      .data(data)
+      .enter()
+      .append('tr')
+      .attr('style', 'visibility:visible')
+      .attr('name', (row) => {return row.name;})
+      .html(row_to_html_string);
+});
+
+var timer = null;
+d3.select('input').on('input', (e) => {
+    clearTimeout(timer);
+    timer = setTimeout(function () {
+        d3.selectAll('tr')
+          .attr('style', (tr) => {
+            if (tr.name.toLowerCase().includes(d3.select('input').property('value').toLowerCase()))
+                return 'visibility:visible';
+            else
+                return 'visibility:collapse';
+          });
+    }, 400);
+});
+
+
+    </script>
+</html>
