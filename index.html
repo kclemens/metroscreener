@@ -6,44 +6,80 @@
     <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body>
-    <center><input type="text" size="60" placeholder="type to filter" style="text-align:center"><table><tbody></tbody></table></center>
+    <table>
+        <thead style="position: sticky; top: 0; z-index: 1;">
+            <tr style="background-color: white;">
+                <th id="status" width="140px" height="30px"></th>
+                <th style="text-align: left;"><input type="text" size="60" placeholder="type to filter"></th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
 </body>
     <script>
 function row_to_html_string(row) {
-    var img = '<td><img src="' + row.img_url + '" width="90" height="90" alt="" loading="lazy"></td>';
-    var name = '<td style="text-align:center">' + row.name + '</td>';
-    var price = '<td>' + row[Object.keys(row).slice(-2, -1)] + '</td>';
+    var key = row.key;
+    var url_from_key = key.slice(0, -8) + '/' + key.slice(-8,-4) + '/' + key.slice(-4)
+    var name = '<td><a href="https://produkte.metro.de/shop/pv/' + url_from_key + '" target="_blank">' + row.name + '</a></td>';
 
     var price_keys = Object.keys(row).slice(4);
     var os = price_keys.filter((key, index) => {return index % 2 == 0 && row[key] != ''}).map((key, index) => {return row[key]}).join();
     var ds = price_keys.filter((key, index) => {return index % 2 == 1 && row[key] != ''}).map((key, index) => {return row[key]}).join();
-    var price_history = '<td><img src="https://chart.googleapis.com/chart?chs=90x90&cht=ls&chco=0077CC,FF0000&chd=t:' + os + '|' + ds + '" loading="lazy"></td>'
+    var price_history_url = 'https://chart.googleapis.com/chart?chs=140x30&cht=ls&chco=0077CC,FF0000&chd=t:' + os + '|' + ds;
 
-    return img+name+price+price_history;
+    var price = '<td style="text-align:center;background-image:url(' + price_history_url + ')" width="140px" height="30px">' + row[Object.keys(row).slice(-2, -1)] + ' EUR</td>';
+
+    return price+name;
 }
 
+d3.select('#status').text('Lade Daten...')
+var total_count = 0;
 d3.tsv('history.csv').then((data) => {
     d3.select('tbody')
       .selectAll('tr')
       .data(data)
       .enter()
       .append('tr')
-      .attr('style', 'visibility:visible')
+      .style('visibility', 'visible')
       .attr('name', (row) => {return row.name;})
-      .html(row_to_html_string);
+      .html(row_to_html_string)
+      .transition()
+      .on('end', (_, i) => {
+        total_count = Math.max(total_count, i);
+        d3.select('#status').text(total_count + ' Einträge')
+      });
 });
 
 var timer = null;
 d3.select('input').on('input', (e) => {
     clearTimeout(timer);
     timer = setTimeout(function () {
-        d3.selectAll('tr')
-          .attr('style', (tr) => {
-            if (tr.name.toLowerCase().includes(d3.select('input').property('value').toLowerCase()))
-                return 'visibility:visible';
-            else
-                return 'visibility:collapse';
+        // console.log('start');
+        // d3.select('#status').text('Lade Daten...')
+        // d3.select('tbody').style('visibility', 'collapse');
+        // d3.select('input').attr('disabled', true);
+
+        var visibles = 0;
+        d3.select('tbody')
+          .selectAll('tr')
+          .transition()
+          .style('visibility', (tr) => {
+            if (tr.name.toLowerCase().includes(d3.select('input').property('value').toLowerCase())) {
+                visibles += 1; // is that atomic?
+                return 'visible';
+            } else {
+                return 'collapse';
+            }
+          })
+          .on('end', (tr, i) => {
+            if (i == total_count) {
+                // d3.select('tbody').style('visibility', 'visible');
+                // d3.select('input').attr('disabled', null);
+                // d3.select('#status').text(visibles + ' Einträge')
+                // console.log('stop');
+            }
           });
+
     }, 400);
 });
 
