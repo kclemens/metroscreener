@@ -10,7 +10,7 @@
         <thead style="position: sticky; top: 0; z-index: 1;">
             <tr style="background-color: white;">
                 <th id="status" width="140px" height="30px"></th>
-                <th style="text-align: left;"><input type="text" size="60" placeholder="type to filter"></th>
+                <th style="text-align: left;"><input type="text" size="60" placeholder="Nach Beschreibung Suchen"></th>
             </tr>
         </thead>
         <tbody></tbody>
@@ -55,7 +55,7 @@ d3.select('input').on('input', (e) => {
     clearTimeout(timer);
     timer = setTimeout(function () {
         // console.log('start');
-        // d3.select('#status').text('Lade Daten...')
+        d3.select('#status').text('Lade Daten...')
         // d3.select('tbody').style('visibility', 'collapse');
         // d3.select('input').attr('disabled', true);
 
@@ -75,7 +75,7 @@ d3.select('input').on('input', (e) => {
             if (i == total_count) {
                 // d3.select('tbody').style('visibility', 'visible');
                 // d3.select('input').attr('disabled', null);
-                // d3.select('#status').text(visibles + ' Einträge')
+                d3.select('#status').text(visibles + ' Einträge')
                 // console.log('stop');
             }
           });
