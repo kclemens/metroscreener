@@ -10,7 +10,11 @@
         <thead style="position: sticky; top: 0; z-index: 1;">
             <tr style="background-color: white;">
                 <th id="status" width="140px" height="30px"></th>
-                <th style="text-align: left;"><input type="text" size="60" placeholder="Nach Beschreibung Suchen"></th>
+                <th style="text-align: left;">
+                    <input type="text" size="60" placeholder="Nach Beschreibung Suchen">
+                    working with recent highlights, 
+                    <a href="all.html">load all data</a>
+                </th>
             </tr>
         </thead>
         <tbody></tbody>
@@ -34,7 +38,7 @@ function row_to_html_string(row) {
 
 d3.select('#status').text('Lade Daten...')
 var total_count = 0;
-d3.tsv('history.csv').then((data) => {
+d3.tsv('highlights.csv').then((data) => {
     d3.select('tbody')
       .selectAll('tr')
       .data(data)
@@ -54,10 +58,9 @@ var timer = null;
 d3.select('input').on('input', (e) => {
     clearTimeout(timer);
     timer = setTimeout(function () {
-        // console.log('start');
         d3.select('#status').text('Lade Daten...')
-        // d3.select('tbody').style('visibility', 'collapse');
-        // d3.select('input').attr('disabled', true);
+        d3.select('tbody').style('visibility', 'collapse');
+        d3.select('input').attr('disabled', true);
 
         var visibles = 0;
         d3.select('tbody')
@@ -73,10 +76,9 @@ d3.select('input').on('input', (e) => {
           })
           .on('end', (tr, i) => {
             if (i == total_count) {
-                // d3.select('tbody').style('visibility', 'visible');
-                // d3.select('input').attr('disabled', null);
+                d3.select('tbody').style('visibility', 'visible');
+                d3.select('input').attr('disabled', null);
                 d3.select('#status').text(visibles + ' Einträge')
-                // console.log('stop');
             }
           });
 
