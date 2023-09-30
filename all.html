@@ -12,8 +12,9 @@
                 <th id="status" width="140px" height="30px"></th>
                 <th style="text-align: left;">
                     <input type="text" size="60" placeholder="Nach Beschreibung Suchen">
-                    working with all data, 
-                    <a href="index.html">load recent highlights</a>
+                    dies sind alle Artikel,
+                    <a href="index.html">hier</a>
+                    gehts zu den besten Angeboten.
                 </th>
             </tr>
         </thead>
@@ -21,9 +22,11 @@
     </table>
 </body>
     <script>
+var price_key = 'offer-' + new Date().toISOString().split('T')[0]
+
 function row_to_html_string(row) {
     var name = '<td><a href="https://produkte.metro.de/shop/pv/' + row.key + '" target="_blank">' + row.name + '</a></td>';
-    var price = '<td style="text-align:center;">' + row[Object.keys(row).length-2] + ' EUR</td>';
+    var price = '<td style="text-align:center;">' + row[price_key] + ' EUR</td>';
     return price+name;
 }
 
