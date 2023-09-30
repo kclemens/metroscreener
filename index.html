@@ -22,17 +22,8 @@
 </body>
     <script>
 function row_to_html_string(row) {
-    var key = row.key;
-    var url_from_key = key.slice(0, -8) + '/' + key.slice(-8,-4) + '/' + key.slice(-4)
-    var name = '<td><a href="https://produkte.metro.de/shop/pv/' + url_from_key + '" target="_blank">' + row.name + '</a></td>';
-
-    var price_keys = Object.keys(row).slice(4);
-    var os = price_keys.filter((key, index) => {return index % 2 == 0 && row[key] != ''}).map((key, index) => {return row[key]}).join();
-    var ds = price_keys.filter((key, index) => {return index % 2 == 1 && row[key] != ''}).map((key, index) => {return row[key]}).join();
-    var price_history_url = 'https://chart.googleapis.com/chart?chs=140x30&cht=ls&chco=0077CC,FF0000&chd=t:' + os + '|' + ds;
-
-    var price = '<td style="text-align:center;background-image:url(' + price_history_url + ')" width="140px" height="30px">' + row[Object.keys(row).slice(-2, -1)] + ' EUR</td>';
-
+    var name = '<td><a href="https://produkte.metro.de/shop/pv/' + row.key + '" target="_blank">' + row.name + '</a></td>';
+    var price = '<td style="text-align:center;">' + row[Object.keys(row).length-2] + ' EUR</td>';
     return price+name;
 }
 
