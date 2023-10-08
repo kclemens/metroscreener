@@ -1,72 +1,77 @@
-key	category	name	offer-2023-09-30	default-2023-09-30	offer-2023-10-01	default-2023-10-01	offer-2023-10-01	default-2023-10-01	offer-2023-10-02	default-2023-10-02	offer-2023-10-03	default-2023-10-03	offer-2023-10-05	default-2023-10-05	offer-2023-10-06	default-2023-10-06	offer-2023-10-07	default-2023-10-07
-BTY-X161974/0032/0021	category:food/trockensortiment/gewürze	FUCHS Pfeffer Weiß gemahlen - 1 x 33 g Beutel			3.95	3.95	3.95	3.95	0.54	0.54	0.54	0.54	0.54	0.54	0.54	0.54	0.54	0.54
-BTY-X88976/0032/0021	category:food/gemüse/pilze-kräuter	Italienischer Herbsttrüffel Schwarz ca. 10-20 g Stücke - 1 kg Schale			1048.59	1048.59	1048.59	1048.59	1048.59	1048.59	1048.59	1048.59	1048.59	1048.59	513.59	513.59	513.59	513.59
-BTY-X21708/0036/0021	category:food/süßes-salziges/weingummi-co	Haribo Konfekt - 100 g Beutel			0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.37	0.37	0.37	0.37
-BTY-X311726/0044/0021	category:food/süßes-salziges/kaugummi-mints	Tic Tac Einzelbox Fruity Mix - 18 g Packung			0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.37	0.37	0.37	0.37
-BTY-X311726/0032/0021	category:food/süßes-salziges/lutsch-spielprodukte	Tic Tac 1er Mint - 18 g Schachtel			0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.37	0.37	0.37	0.37
-BTY-X311726/0044/0021	category:food/süßes-salziges/kaugummi-mints	Tic Tac Einzelbox Fruity Mix - 18 g Packung			0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.37	0.37	0.37	0.37
-BTY-X144826/0039/0023	category:food/frühstück-kaffee-tee/frühstück	Kölln Müsli Früchte mit Hafer-Vollkornflocken - 4 x 1,7 kg Beutel			39.76	39.76	39.76	39.76	39.76	39.76	39.76	39.76	39.76	39.76	21.4	21.4	21.4	21.4
-BTY-X632036/0034/0021	category:food/süßes-salziges/schokolade	Snickers - 50 g Riegel			0.68	0.68	0.68	0.68	0.68	0.68	0.68	0.68	0.68	0.68	0.37	0.37	0.37	0.37
-BTY-X646784/0032/0021	category:food/alkoholische-getränke/bier	Paulaner Oktoberfest Bier Glas - 20 x 0,50 l Flaschen			24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4			14.4	14.4
-BTY-X412067/0033/0021	category:food/süßes-salziges/schokolade	Lion King Size Classic - 60 g Stück			0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.54	0.54	0.54	0.54
-BTY-X412067/0034/0021	category:food/süßes-salziges/schokolade	Lion King Size Peanut - 62 g Stück			0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.54	0.54	0.54	0.54
-BTY-X412067/0032/0021	category:food/süßes-salziges/schokolade	Lion King Size White - 60 g Stück			0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.54	0.54	0.54	0.54
-BTY-X124421/0033/0022	category:food/alkoholische-getränke/bier	Spaten oktoberfestbier Glas - 20 x 500 ml Flasche			24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	14.4	14.4	14.4	14.4
-BTY-X124806/0033/0022	category:food/alkoholische-getränke/bier	Löwenbräu Oktoberfestbier Glas - 20 x 0,50 l Flaschen			24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	14.4	14.4	14.4	14.4
-BTY-X124806/0033/0021	category:food/alkoholische-getränke/bier	Löwenbräu Oktoberfestbier Mehrweg 0,5 l Flasche			1.13	1.13	1.13	1.13	1.13	1.13	1.13	1.13	1.13	1.13	0.69	0.69	0.69	0.69
-BTY-X26880/0032/0021	category:food/trockensortiment/gewürze	FUCHS Dillspitzen - 1 x 20 g Dose			3.95	3.95	3.95	3.95					1.97	1.97	1.97	1.97	1.97	1.97
-BTY-X5891/0032/0021	category:food/trockensortiment/gewürze	Ubena Dill Sauce 4 Packungen à 40 g - 4 x 160 g Beutel			8.77	8.77	8.77	8.77					4.39	4.39	4.39	4.39	4.39	4.39
-BTY-X713063/0032/0021	category:food/trockensortiment/konserven	Kühne Apfel-Rotkohl - 700 g Tiegel			1.07	1.07	1.07	1.07	1.98	1.98	1.98	1.98	1.98	1.98	1.07	1.07	1.07	1.07
-BTY-X713063/0032/0022	category:food/trockensortiment/konserven	Kühne Apfel-Rotkohl - 12 x 700 g Tiegel			12.84	12.84	12.84	12.84	23.75	23.75	23.75	23.75	23.75	23.75	12.84	12.84	12.84	12.84
-BTY-X194119/0032/0021	category:food/trockensortiment/gewürze	Ostmann Spekulatius Gewürz gemahlen, Mix aus: Zimt, Coriander, Anis, Nelken und Cardamon 15 g Beutel			1.81	1.81	1.81	1.81	0.9	0.9	0.9	0.9			0.9	0.9	0.9	0.9
-BTY-X194119/0032/0021	category:food/trockensortiment/gewürze	Ostmann Spekulatius Gewürz gemahlen, Mix aus: Zimt, Coriander, Anis, Nelken und Cardamon 15 g Beutel			1.81	1.81	1.81	1.81	0.9	0.9	0.9	0.9			0.9	0.9	0.9	0.9
-BTY-X380005/0032/0023	category:food/gemüse/wurzelgemüse	Schwarzer Rettich Deutschland - 10 je Display mit Artikelauflösung			21.29	21.29	21.29	21.29	9.62	9.62	9.62	9.62	9.62	9.62	9.62	9.62	9.62	9.62
-BTY-X161945/0032/0021	category:food/trockensortiment/gewürze	FUCHS Majoran gerebelt - 1 x 5 g Beutel			2.99	2.99	2.99	2.99	1.49	1.49	1.49	1.49			1.49	1.49	1.49	1.49
-BTY-X162025/0032/0021	category:food/trockensortiment/gewürze	FUCHS Gewürz-Universum Bunter Pfeffer ganz - 28 g Beutel			2.99	2.99	2.99	2.99	1.49	1.49	1.49	1.49	1.49	1.49			1.49	1.49
-BTY-X27536/0032/0021	category:food/trockensortiment/gewürze	FUCHS Piment ganz - 45 g Dose			4.27	4.27	4.27	4.27			2.13	2.13	2.13	2.13	2.13	2.13	2.13	2.13
-BTY-X64235/0032/0021	category:food/trockensortiment/gewürze	FUCHS Chili Con Carne Würzmischung gemahlen, feurig-scharf - 95 g Dose			4.8	4.8	4.8	4.8	2.4	2.4	2.4	2.4			2.4	2.4	2.4	2.4
-BTY-X5857/0032/0021	category:food/trockensortiment/gewürze	Ubena Sauce Hollandaise - 4 x 100 g Beutel			8.77	8.77	8.77	8.77	4.39	4.39			4.39	4.39	4.39	4.39	4.39	4.39
-BTY-X319726/0032/0021	category:food/alkoholische-getränke/bier	Löwenbräu Oktoberfestbier - 1 x 500 ml Dose			1.29	1.29	1.29	1.29	1.29	1.29	1.29	1.29	1.29	1.29	0.89	0.89	0.89	0.89
-BTY-X6448/0032/0021	category:food/tiefkühl/fisch-meeresfrüchte	METRO Chef Kaisergranat tiefgefroren - 1 kg Stück									24.6	24.6	24.6	24.6	16.04	16.04	16.04	16.04
-BTY-X376504/0032/0021	category:food/trockensortiment/gewürze	Ostmann Nelken gemahlen - 10 g Beutel			1.98	1.98	1.98	1.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98
-BTY-X162073/0032/0021	category:food/trockensortiment/gewürze	FUCHS Rosmarin geschnitten - 1 x 15 g Beutel			2.56	2.56	2.56	2.56	1.27	1.27	1.27	1.27	1.27	1.27	1.27	1.27	1.27	1.27
-BTY-X376504/0032/0022	category:food/trockensortiment/gewürze	Ostmann Nelken gemahlen - 10 x 10 g Karton			19.8	19.8	19.8	19.8	9.84	9.84	9.84	9.84	9.84	9.84	9.84	9.84	9.84	9.84
-BTY-X194116/0032/0021	category:food/trockensortiment/gewürze	Ostmann Kardamon gemahlen - 1 x 7,5 g Beutel			1.89	1.89	1.89	1.89	0.94	0.94	0.94	0.94	0.94	0.94	0.94	0.94	0.94	0.94
-BTY-X162009/0032/0021	category:food/trockensortiment/gewürze	FUCHS Muskatnuss ganz 2 Stück - 10 g Beutel			2.99	2.99	2.99	2.99	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49
-BTY-X161950/0032/0021	category:food/trockensortiment/gewürze	FUCHS Oregano gerebelt - 1 x 5 g Beutel			2.99	2.99	2.99	2.99	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49
-BTY-X64329/0032/0021	category:food/trockensortiment/gewürze	FUCHS Zwiebelsalz - 1 x 90 g Packung			2.99	2.99	2.99	2.99	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49
-BTY-X64296/0032/0021	category:food/trockensortiment/gewürze	FUCHS Wacholder Beeren - 1 x 40 g Beutel			3.73	3.73	3.73	3.73	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86
-BTY-X73270/0032/0021	category:food/trockensortiment/gewürze	FUCHS Zitronenpfeffer Gewürzzubereitung - 70 g Dose			3.73	3.73	3.73	3.73	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86
-BTY-X73270/0032/0021	category:food/trockensortiment/gewürze	FUCHS Zitronenpfeffer Gewürzzubereitung - 70 g Dose			3.73	3.73	3.73	3.73	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86
-BTY-X53879/0032/0021	category:food/trockensortiment/gewürze	FUCHS Italienische Kräuter 25 g Dose			3.95	3.95	3.95	3.95	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97
-BTY-X26890/0032/0021	category:food/trockensortiment/gewürze	FUCHS Majoran gerebelt - 1 x 8 g Dose			3.95	3.95	3.95	3.95	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97
-BTY-X53879/0032/0021	category:food/trockensortiment/gewürze	FUCHS Italienische Kräuter 25 g Dose			3.95	3.95	3.95	3.95	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97
-BTY-X64243/0032/0021	category:food/trockensortiment/gewürze	FUCHS Gewürzsalz Pommes Frites - 200 g Dose			4.27	4.27	4.27	4.27	2.13	2.13	2.13	2.13	2.13	2.13	2.13	2.13	2.13	2.13
-BTY-X88970/0033/0021	category:food/gemüse/pilze-kräuter	Italienischer Herbsttrüffel Schwarz ca. 20-80 g Stücke - 500 g Schale			599.19	599.19	599.19	599.19	599.19	599.19	599.19	599.19	599.19	599.19	427.99	427.99	427.99	427.99
-BTY-X161943/0032/0021	category:food/trockensortiment/gewürze	FUCHS Kurkuma gemahlen - 1 x 29 g Beutel			2.66	2.66	2.66	2.66	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33
-BTY-X161943/0032/0021	category:food/trockensortiment/gewürze	FUCHS Kurkuma gemahlen - 1 x 29 g Beutel			2.66	2.66	2.66	2.66	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33
-BTY-X7440/0032/0021	category:food/trockensortiment/gewürze	Ubena Hummer Sauce, 4 Stück à 40 g - 4 x 160 g Beutel			8.77	8.77	8.77	8.77	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39
-BTY-X7447/0032/0021	category:food/trockensortiment/gewürze	Feine Komposition Wild Sauce 4 Stück à 40 g - 4 x 160 g Beutel			8.77	8.77	8.77	8.77	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39
-BTY-X144826/0039/0021	category:food/frühstück-kaffee-tee/frühstück	Kölln Müsli Früchte mit Hafer-Vollkornflocken - 1,7 kg Beutel			7.48	7.48	7.48	7.48	7.48	7.48	7.48	7.48	7.48	7.48	5.35	5.35	5.35	5.35
-BTY-X454782/0032/0021	category:food/backwaren-aufbacken/brot	Di Marco Pinsa Romana, 3 Stück à 230 g - 690 g Packung			8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	6.42	6.42
-BTY-X454782/0032/0021	category:food/backwaren-aufbacken/brot	Di Marco Pinsa Romana, 3 Stück à 230 g - 690 g Packung			8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	6.42	6.42
-BTY-X10393/0044/0021	category:food/süßes-salziges/schokolade	Lindt Excellence Tafeln Extra Cremig 3 x 100 g Tafel			6.37	6.37	6.37	6.37	6.37	6.37	6.37	6.37	4.48	4.48	4.48	4.48	4.48	4.48
-BTY-X10393/0050/0021	category:food/süßes-salziges/schokolade	Lindt Excellence Tafeln 3 x 100 g Tafel			6.37	6.37	6.37	6.37	6.37	6.37	6.37	6.37	4.48	4.48	4.48	4.48	4.48	4.48
-BTY-X10393/0050/0023	category:food/süßes-salziges/schokolade	Lindt Excellence Tafeln 120 x 3 x 100 g Tafeln			763.98	763.98	763.98	763.98	763.98	763.98	763.98	763.98	538.0	538.0	538.0	538.0	538.0	538.0
-BTY-X379205/0032/0023	category:food/obst/exoten	Passionsfrucht Kolumbien 6 Stück - 10 je Display mit Artikelauflösung			24.5	24.5	24.5	24.5	25.57	25.57	25.57	25.57	19.15	19.15	19.15	19.15	19.15	19.15
-BTY-X449468/0032/0021	category:food/trockensortiment/konserven	aro Thunfisch shredded in Sojaöl - 1,705 kg Dose			8.55	8.55	8.55	8.55	5.34	5.34	5.34	5.34	5.34	5.34	5.34	5.34	5.34	5.34
-BTY-X448737/0034/0021	category:food/alkoholfreie-getränke/tee-kaffee-kakao	Eduscho Filterkaffee Mild gemahlen - 500 g Beutel			6.99	6.99	6.99	6.99	4.49	4.49	4.49	4.49	4.49	4.49	4.49	4.49	4.49	4.49
-BTY-X379778/0033/0022	category:food/gemüse/salat	Rucola - Deutschland - 6 x 150 g Karton			12.83	12.83	12.83	12.83	8.55	8.55	8.55	8.55	8.55	8.55	8.55	8.55	8.55	8.55
-BTY-X446852/0033/0021	category:food/alkoholfreie-getränke/tee-kaffee-kakao	Eduscho Caffè Crema Mild ganze Bohnen - 1 kg Beutel			14.99	14.99	14.99	14.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99
-BTY-X446855/0032/0021	category:food/alkoholfreie-getränke/tee-kaffee-kakao	Eduscho Espresso ganze Bohnen - 1 kg Beutel			14.99	14.99	14.99	14.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99
-BTY-X153744/0032/0021	category:food/fisch/fisch	Zanderfilet ohne Haut ca. 100 - 300 g Stücke frisch - je kg			43.32	43.32	43.32	43.32	28.88	28.88	28.88	28.88	28.88	28.88	28.88	28.88	28.88	28.88
-BTY-Z1054/0032/0021	category:food/gemüse/salat	Artischocken Kiste							63.94	63.94	38.51	38.51	38.51	38.51	38.51	38.51	38.51	38.51
-BTY-X843644/0032/0021	category:food/fisch/fisch	Zanderfilet 100 - 300 g 5 kg			39.58	39.58	39.58	39.58	26.74	26.74	26.74	26.74	26.74	26.74	26.74	26.74	26.74	26.74
-BTY-X359228/0032/0022	category:food/backwaren-aufbacken/tortenböden-kuchen-co	RIOBA Filly Vanille Donut - 2 x 76 g Karton			1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.26	1.26	1.26	1.26
-BTY-X359228/0032/0024	category:food/backwaren-aufbacken/tortenböden-kuchen-co	RIOBA Filly Vanille Donut - 48 x 76 g Karton			35.95	35.95	35.95	35.95	35.95	35.95	35.95	35.95	35.95	35.95	30.3	30.3	30.3	30.3
-BTY-X359228/0032/0023	category:food/backwaren-aufbacken/tortenböden-kuchen-co	RIOBA Filly Vanille Donut - 4 x 76 g Karton			3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	2.53	2.53	2.53	2.53
-BTY-X153745/0032/0021	category:food/fisch/fisch	Zanderfilet ohne Haut ca. 300 - 500 g Stücke frisch - je kg			46.0	46.0	46.0	46.0	31.55	31.55	31.55	31.55	31.55	31.55	31.55	31.55	31.55	31.55
-BTY-X392953/0032/0021	category:food/alkoholische-getränke/wein	Claus Jacob Edition Terroir Riesling Kalkstein Weißwein trocken - 750 ml Flasche			6.99	6.99	6.99	6.99	6.99	6.99	6.99	6.99	6.99	6.99	5.94	5.94	5.94	5.94
-BTY-X392953/0032/0022	category:food/alkoholische-getränke/wein	Edition Terroir Riesling Kalkstein Weißwein trocken - 6 x 750 ml Karton			41.91	41.91	41.91	41.91	41.91	41.91	41.91	41.91	41.91	41.91	35.63	35.63	35.63	35.63
-BTY-X427400/0032/0021	category:food/fisch/fisch	Zander ausgenommen mit Kopf ca. 0,5 - 1 kg Stück frisch - je kg			25.13	25.13	25.13	25.13	18.5	18.5	18.5	18.5	18.5	18.5	18.5	18.5	18.5	18.5
-BTY-X32622/0032/0021	category:food/fisch/fisch	Seelachsloins, ohne Haut, roh, frisch, gekühlt, ca. 150 g+			20.11	20.11	20.11	20.11	14.97	14.97	14.97	14.97	14.97	14.97	14.97	14.97	14.97	14.97
+key	category	name	offer-2023-09-30	default-2023-09-30	offer-2023-10-01	default-2023-10-01	offer-2023-10-01	default-2023-10-01	offer-2023-10-02	default-2023-10-02	offer-2023-10-03	default-2023-10-03	offer-2023-10-05	default-2023-10-05	offer-2023-10-06	default-2023-10-06	offer-2023-10-07	default-2023-10-07	offer-2023-10-08	default-2023-10-08
+BTY-X161974/0032/0021	category:food/trockensortiment/gewürze	FUCHS Pfeffer Weiß gemahlen - 1 x 33 g Beutel			3.95	3.95	3.95	3.95	0.54	0.54	0.54	0.54	0.54	0.54	0.54	0.54	0.54	0.54	0.54	0.54
+BTY-X21708/0034/0021	category:food/süßes-salziges/weingummi-co	Haribo Color-Rado - 100 g Beutel			0.74	0.74	0.74	0.74			0.74	0.74	0.74	0.74	0.37	0.37			0.37	0.37
+BTY-X21708/0038/0021	category:food/süßes-salziges/weingummi-co	Haribo Saure Pommes - 100 g Beutel			0.74	0.74	0.74	0.74					0.74	0.74	0.37	0.37			0.37	0.37
+BTY-X88976/0032/0021	category:food/gemüse/pilze-kräuter	Italienischer Herbsttrüffel Schwarz ca. 10-20 g Stücke - 1 kg Schale			1048.59	1048.59	1048.59	1048.59	1048.59	1048.59	1048.59	1048.59	1048.59	1048.59	513.59	513.59	513.59	513.59	513.59	513.59
+BTY-X21708/0036/0021	category:food/süßes-salziges/weingummi-co	Haribo Konfekt - 100 g Beutel			0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.37	0.37	0.37	0.37	0.37	0.37
+BTY-X311726/0044/0021	category:food/süßes-salziges/kaugummi-mints	Tic Tac Einzelbox Fruity Mix - 18 g Packung			0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.37	0.37	0.37	0.37	0.37	0.37
+BTY-X311726/0032/0021	category:food/süßes-salziges/lutsch-spielprodukte	Tic Tac 1er Mint - 18 g Schachtel			0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.37	0.37	0.37	0.37	0.37	0.37
+BTY-X311726/0044/0021	category:food/süßes-salziges/kaugummi-mints	Tic Tac Einzelbox Fruity Mix - 18 g Packung			0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.74	0.37	0.37	0.37	0.37	0.37	0.37
+BTY-X291582/0033/0021	category:food/alkoholische-getränke/wein	Baden Federweisser Weißwein - 1 l Flasche			2.96	2.96	2.96	2.96	2.96	2.96			2.96	2.96	2.96	2.96	2.96	2.96	1.79	1.79
+BTY-X144826/0039/0023	category:food/frühstück-kaffee-tee/frühstück	Kölln Müsli Früchte mit Hafer-Vollkornflocken - 4 x 1,7 kg Beutel			39.76	39.76	39.76	39.76	39.76	39.76	39.76	39.76	39.76	39.76	21.4	21.4	21.4	21.4	21.4	21.4
+BTY-X632036/0034/0021	category:food/süßes-salziges/schokolade	Snickers - 50 g Riegel			0.68	0.68	0.68	0.68	0.68	0.68	0.68	0.68	0.68	0.68	0.37	0.37	0.37	0.37	0.37	0.37
+BTY-X412067/0033/0021	category:food/süßes-salziges/schokolade	Lion King Size Classic - 60 g Stück			0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.54	0.54	0.54	0.54	0.54	0.54
+BTY-X412067/0034/0021	category:food/süßes-salziges/schokolade	Lion King Size Peanut - 62 g Stück			0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.54	0.54	0.54	0.54	0.54	0.54
+BTY-X412067/0032/0021	category:food/süßes-salziges/schokolade	Lion King Size White - 60 g Stück			0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.54	0.54	0.54	0.54	0.54	0.54
+BTY-X646784/0032/0021	category:food/alkoholische-getränke/bier	Paulaner Oktoberfest Bier Glas - 20 x 0,50 l Flaschen			24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4			14.4	14.4	14.4	14.4
+BTY-X124806/0033/0022	category:food/alkoholische-getränke/bier	Löwenbräu Oktoberfestbier Glas - 20 x 0,50 l Flaschen			24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	24.4	14.4	14.4	14.4	14.4	14.4	14.4
+BTY-X143679/0032/0021	category:food/alkoholische-getränke/wein	Fränkischer Federweißer Weißwein lieblich - 1 l Flasche			3.56	3.56	3.56	3.56	3.56	3.56	3.56	3.56	3.56	3.56	3.56	3.56	3.56	3.56	2.38	2.38
+BTY-X143679/0032/0022	category:food/alkoholische-getränke/wein	Fränkischer Federweißer Weißwein lieblich - 6 x 1 l Karton			21.35	21.35	21.35	21.35	21.35	21.35	21.35	21.35	21.35	21.35	21.35	21.35	21.35	21.35	14.28	14.28
+BTY-X124806/0033/0021	category:food/alkoholische-getränke/bier	Löwenbräu Oktoberfestbier Mehrweg 0,5 l Flasche			1.13	1.13	1.13	1.13	1.13	1.13	1.13	1.13	1.13	1.13	0.69	0.69	0.69	0.69	0.69	0.69
+BTY-X291582/0033/0022	category:food/alkoholische-getränke/wein	Baden Federweisser Weißwein - 6 x 1 l Karton			17.78	17.78	17.78	17.78	17.78	17.78			17.78	17.78	17.78	17.78	17.78	17.78	12.45	12.45
+BTY-X858405/0032/0022	category:food/alkoholische-getränke/wein	Gerstacker Federweißer Rosé halbtrocken Roséwein - 6 x 1 l Karton			17.78	17.78	17.78	17.78	17.78	17.78	17.78	17.78	17.78	17.78			17.78	17.78	12.45	12.45
+BTY-X26880/0032/0021	category:food/trockensortiment/gewürze	FUCHS Dillspitzen - 1 x 20 g Dose			3.95	3.95	3.95	3.95					1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97
+BTY-X5891/0032/0021	category:food/trockensortiment/gewürze	Ubena Dill Sauce 4 Packungen à 40 g - 4 x 160 g Beutel			8.77	8.77	8.77	8.77					4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39
+BTY-X713063/0032/0021	category:food/trockensortiment/konserven	Kühne Apfel-Rotkohl - 700 g Tiegel			1.07	1.07	1.07	1.07	1.98	1.98	1.98	1.98	1.98	1.98	1.07	1.07	1.07	1.07	1.07	1.07
+BTY-X713063/0032/0022	category:food/trockensortiment/konserven	Kühne Apfel-Rotkohl - 12 x 700 g Tiegel			12.84	12.84	12.84	12.84	23.75	23.75	23.75	23.75	23.75	23.75	12.84	12.84	12.84	12.84	12.84	12.84
+BTY-X380005/0032/0023	category:food/gemüse/wurzelgemüse	Schwarzer Rettich Deutschland - 10 je Display mit Artikelauflösung			21.29	21.29	21.29	21.29	9.62	9.62	9.62	9.62	9.62	9.62	9.62	9.62	9.62	9.62	9.62	9.62
+BTY-X160834/0032/0021	category:food/trockensortiment/gewürze	FUCHS Cardamom - 18 g Beutel			1.98	1.98	1.98	1.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98			0.98	0.98
+BTY-X194119/0032/0021	category:food/trockensortiment/gewürze	Ostmann Spekulatius Gewürz gemahlen, Mix aus: Zimt, Coriander, Anis, Nelken und Cardamon 15 g Beutel			1.81	1.81	1.81	1.81	0.9	0.9	0.9	0.9			0.9	0.9	0.9	0.9	0.9	0.9
+BTY-X194119/0032/0021	category:food/trockensortiment/gewürze	Ostmann Spekulatius Gewürz gemahlen, Mix aus: Zimt, Coriander, Anis, Nelken und Cardamon 15 g Beutel			1.81	1.81	1.81	1.81	0.9	0.9	0.9	0.9			0.9	0.9	0.9	0.9	0.9	0.9
+BTY-X161945/0032/0021	category:food/trockensortiment/gewürze	FUCHS Majoran gerebelt - 1 x 5 g Beutel			2.99	2.99	2.99	2.99	1.49	1.49	1.49	1.49			1.49	1.49	1.49	1.49	1.49	1.49
+BTY-X162025/0032/0021	category:food/trockensortiment/gewürze	FUCHS Gewürz-Universum Bunter Pfeffer ganz - 28 g Beutel			2.99	2.99	2.99	2.99	1.49	1.49	1.49	1.49	1.49	1.49			1.49	1.49	1.49	1.49
+BTY-X27536/0032/0021	category:food/trockensortiment/gewürze	FUCHS Piment ganz - 45 g Dose			4.27	4.27	4.27	4.27			2.13	2.13	2.13	2.13	2.13	2.13	2.13	2.13	2.13	2.13
+BTY-X64235/0032/0021	category:food/trockensortiment/gewürze	FUCHS Chili Con Carne Würzmischung gemahlen, feurig-scharf - 95 g Dose			4.8	4.8	4.8	4.8	2.4	2.4	2.4	2.4			2.4	2.4	2.4	2.4	2.4	2.4
+BTY-X5857/0032/0021	category:food/trockensortiment/gewürze	Ubena Sauce Hollandaise - 4 x 100 g Beutel			8.77	8.77	8.77	8.77	4.39	4.39			4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39
+BTY-X319726/0032/0021	category:food/alkoholische-getränke/bier	Löwenbräu Oktoberfestbier - 1 x 500 ml Dose			1.29	1.29	1.29	1.29	1.29	1.29	1.29	1.29	1.29	1.29	0.89	0.89	0.89	0.89	0.89	0.89
+BTY-X404225/0032/0021	category:food/fisch/fisch	Schwertfisch Steak gekühlt 200 - 300 g Stücke - 5 kg			27.81	27.81	27.81	27.81	40.11	19.25	40.11	19.25	40.11	19.25	40.11	19.25	40.11	19.25	27.81	27.81
+BTY-X376504/0032/0021	category:food/trockensortiment/gewürze	Ostmann Nelken gemahlen - 10 g Beutel			1.98	1.98	1.98	1.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98
+BTY-X162073/0032/0021	category:food/trockensortiment/gewürze	FUCHS Rosmarin geschnitten - 1 x 15 g Beutel			2.56	2.56	2.56	2.56	1.27	1.27	1.27	1.27	1.27	1.27	1.27	1.27	1.27	1.27	1.27	1.27
+BTY-X376504/0032/0022	category:food/trockensortiment/gewürze	Ostmann Nelken gemahlen - 10 x 10 g Karton			19.8	19.8	19.8	19.8	9.84	9.84	9.84	9.84	9.84	9.84	9.84	9.84	9.84	9.84	9.84	9.84
+BTY-X194116/0032/0021	category:food/trockensortiment/gewürze	Ostmann Kardamon gemahlen - 1 x 7,5 g Beutel			1.89	1.89	1.89	1.89	0.94	0.94	0.94	0.94	0.94	0.94	0.94	0.94	0.94	0.94	0.94	0.94
+BTY-X162009/0032/0021	category:food/trockensortiment/gewürze	FUCHS Muskatnuss ganz 2 Stück - 10 g Beutel			2.99	2.99	2.99	2.99	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49
+BTY-X161950/0032/0021	category:food/trockensortiment/gewürze	FUCHS Oregano gerebelt - 1 x 5 g Beutel			2.99	2.99	2.99	2.99	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49
+BTY-X64329/0032/0021	category:food/trockensortiment/gewürze	FUCHS Zwiebelsalz - 1 x 90 g Packung			2.99	2.99	2.99	2.99	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49	1.49
+BTY-X64296/0032/0021	category:food/trockensortiment/gewürze	FUCHS Wacholder Beeren - 1 x 40 g Beutel			3.73	3.73	3.73	3.73	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86
+BTY-X73270/0032/0021	category:food/trockensortiment/gewürze	FUCHS Zitronenpfeffer Gewürzzubereitung - 70 g Dose			3.73	3.73	3.73	3.73	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86
+BTY-X73270/0032/0021	category:food/trockensortiment/gewürze	FUCHS Zitronenpfeffer Gewürzzubereitung - 70 g Dose			3.73	3.73	3.73	3.73	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86	1.86
+BTY-X53879/0032/0021	category:food/trockensortiment/gewürze	FUCHS Italienische Kräuter 25 g Dose			3.95	3.95	3.95	3.95	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97
+BTY-X26890/0032/0021	category:food/trockensortiment/gewürze	FUCHS Majoran gerebelt - 1 x 8 g Dose			3.95	3.95	3.95	3.95	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97
+BTY-X53879/0032/0021	category:food/trockensortiment/gewürze	FUCHS Italienische Kräuter 25 g Dose			3.95	3.95	3.95	3.95	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97	1.97
+BTY-X64243/0032/0021	category:food/trockensortiment/gewürze	FUCHS Gewürzsalz Pommes Frites - 200 g Dose			4.27	4.27	4.27	4.27	2.13	2.13	2.13	2.13	2.13	2.13	2.13	2.13	2.13	2.13	2.13	2.13
+BTY-X88970/0033/0021	category:food/gemüse/pilze-kräuter	Italienischer Herbsttrüffel Schwarz ca. 20-80 g Stücke - 500 g Schale			599.19	599.19	599.19	599.19	599.19	599.19	599.19	599.19	599.19	599.19	427.99	427.99	427.99	427.99	427.99	427.99
+BTY-X161943/0032/0021	category:food/trockensortiment/gewürze	FUCHS Kurkuma gemahlen - 1 x 29 g Beutel			2.66	2.66	2.66	2.66	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33
+BTY-X161943/0032/0021	category:food/trockensortiment/gewürze	FUCHS Kurkuma gemahlen - 1 x 29 g Beutel			2.66	2.66	2.66	2.66	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33	1.33
+BTY-X7440/0032/0021	category:food/trockensortiment/gewürze	Ubena Hummer Sauce, 4 Stück à 40 g - 4 x 160 g Beutel			8.77	8.77	8.77	8.77	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39
+BTY-X7447/0032/0021	category:food/trockensortiment/gewürze	Feine Komposition Wild Sauce 4 Stück à 40 g - 4 x 160 g Beutel			8.77	8.77	8.77	8.77	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39	4.39
+BTY-X144826/0039/0021	category:food/frühstück-kaffee-tee/frühstück	Kölln Müsli Früchte mit Hafer-Vollkornflocken - 1,7 kg Beutel			7.48	7.48	7.48	7.48	7.48	7.48	7.48	7.48	7.48	7.48	5.35	5.35	5.35	5.35	5.35	5.35
+BTY-X454782/0032/0021	category:food/backwaren-aufbacken/brot	Di Marco Pinsa Romana, 3 Stück à 230 g - 690 g Packung			8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	6.42	6.42	6.42	6.42
+BTY-X454782/0032/0021	category:food/backwaren-aufbacken/brot	Di Marco Pinsa Romana, 3 Stück à 230 g - 690 g Packung			8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	8.51	6.42	6.42	6.42	6.42
+BTY-X6448/0032/0021	category:food/tiefkühl/fisch-meeresfrüchte	METRO Chef Kaisergranat tiefgefroren - 1 kg Stück									24.6	24.6	24.6	24.6	16.04	16.04	16.04	16.04	16.04	16.04
+BTY-X10393/0044/0021	category:food/süßes-salziges/schokolade	Lindt Excellence Tafeln Extra Cremig 3 x 100 g Tafel			6.37	6.37	6.37	6.37	6.37	6.37	6.37	6.37	4.48	4.48	4.48	4.48	4.48	4.48	4.48	4.48
+BTY-X10393/0050/0021	category:food/süßes-salziges/schokolade	Lindt Excellence Tafeln 3 x 100 g Tafel			6.37	6.37	6.37	6.37	6.37	6.37	6.37	6.37	4.48	4.48	4.48	4.48	4.48	4.48	4.48	4.48
+BTY-X10393/0050/0023	category:food/süßes-salziges/schokolade	Lindt Excellence Tafeln 120 x 3 x 100 g Tafeln			763.98	763.98	763.98	763.98	763.98	763.98	763.98	763.98	538.0	538.0	538.0	538.0	538.0	538.0	538.0	538.0
+BTY-X379205/0032/0023	category:food/obst/exoten	Passionsfrucht Kolumbien 6 Stück - 10 je Display mit Artikelauflösung			24.5	24.5	24.5	24.5	25.57	25.57	25.57	25.57	19.15	19.15	19.15	19.15	19.15	19.15	19.15	19.15
+BTY-X449468/0032/0021	category:food/trockensortiment/konserven	aro Thunfisch shredded in Sojaöl - 1,705 kg Dose			8.55	8.55	8.55	8.55	5.34	5.34	5.34	5.34	5.34	5.34	5.34	5.34	5.34	5.34	5.34	5.34
+BTY-X448737/0034/0021	category:food/alkoholfreie-getränke/tee-kaffee-kakao	Eduscho Filterkaffee Mild gemahlen - 500 g Beutel			6.99	6.99	6.99	6.99	4.49	4.49	4.49	4.49	4.49	4.49	4.49	4.49	4.49	4.49	4.49	4.49
+BTY-X446852/0033/0021	category:food/alkoholfreie-getränke/tee-kaffee-kakao	Eduscho Caffè Crema Mild ganze Bohnen - 1 kg Beutel			14.99	14.99	14.99	14.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99
+BTY-X446855/0032/0021	category:food/alkoholfreie-getränke/tee-kaffee-kakao	Eduscho Espresso ganze Bohnen - 1 kg Beutel			14.99	14.99	14.99	14.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99	9.99
+BTY-X153744/0032/0021	category:food/fisch/fisch	Zanderfilet ohne Haut ca. 100 - 300 g Stücke frisch - je kg			43.32	43.32	43.32	43.32	28.88	28.88	28.88	28.88	28.88	28.88	28.88	28.88	28.88	28.88	28.88	28.88
+BTY-X843644/0032/0021	category:food/fisch/fisch	Zanderfilet 100 - 300 g 5 kg			39.58	39.58	39.58	39.58	26.74	26.74	26.74	26.74	26.74	26.74	26.74	26.74	26.74	26.74	26.74	26.74
+BTY-X359228/0032/0022	category:food/backwaren-aufbacken/tortenböden-kuchen-co	RIOBA Filly Vanille Donut - 2 x 76 g Karton			1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.26	1.26	1.26	1.26	1.26	1.26
+BTY-X359228/0032/0024	category:food/backwaren-aufbacken/tortenböden-kuchen-co	RIOBA Filly Vanille Donut - 48 x 76 g Karton			35.95	35.95	35.95	35.95	35.95	35.95	35.95	35.95	35.95	35.95	30.3	30.3	30.3	30.3	30.3	30.3
+BTY-X359228/0032/0023	category:food/backwaren-aufbacken/tortenböden-kuchen-co	RIOBA Filly Vanille Donut - 4 x 76 g Karton			3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	2.53	2.53	2.53	2.53	2.53	2.53
+BTY-Z1054/0032/0021	category:food/gemüse/salat	Artischocken Kiste							63.94	63.94	38.51	38.51	38.51	38.51	38.51	38.51	38.51	38.51	38.51	38.51
+BTY-X153745/0032/0021	category:food/fisch/fisch	Zanderfilet ohne Haut ca. 300 - 500 g Stücke frisch - je kg			46.0	46.0	46.0	46.0	31.55	31.55	31.55	31.55	31.55	31.55	31.55	31.55	31.55	31.55	31.55	31.55
+BTY-X392953/0032/0021	category:food/alkoholische-getränke/wein	Claus Jacob Edition Terroir Riesling Kalkstein Weißwein trocken - 750 ml Flasche			6.99	6.99	6.99	6.99	6.99	6.99	6.99	6.99	6.99	6.99	5.94	5.94	5.94	5.94	5.94	5.94
+BTY-X392953/0032/0022	category:food/alkoholische-getränke/wein	Edition Terroir Riesling Kalkstein Weißwein trocken - 6 x 750 ml Karton			41.91	41.91	41.91	41.91	41.91	41.91	41.91	41.91	41.91	41.91	35.63	35.63	35.63	35.63	35.63	35.63
