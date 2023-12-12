@@ -6,15 +6,14 @@
     <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body>
+    <h3>Das sind die aktuellen Angebote, die vollständige Liste aller Waren gibts <a href="all.html">hier</a>!</h3>
     <table>
         <thead style="position: sticky; top: 0; z-index: 1;">
             <tr style="background-color: white;">
                 <th id="status" width="140px" height="30px"></th>
+                <th></th>
                 <th style="text-align: left;">
                     <input type="text" size="60" placeholder="Nach Beschreibung Suchen">
-                    dies sind die besten Angebote, 
-                    <a href="all.html">hier</a>
-                    gehts zu allen Artikeln.
                 </th>
             </tr>
         </thead>
@@ -22,16 +21,14 @@
     </table>
 </body>
     <script>
-var price_key = 'offer-' + new Date().toISOString().split('T')[0]
-
-
 function row_to_html_string(row) {
-    if (row[price_key]) {
-        var name = '<td><a href="https://produkte.metro.de/shop/pv/' + row.key + '" target="_blank">' + row.name + '</a></td>';
-        var price = '<td style="text-align:center;">' + row[price_key] + ' EUR</td>';
-        return price+name;
-    }
-    return null;
+    var key = row.key;
+    var url_from_key = key.slice(0, -8) + '/' + key.slice(-8,-4) + '/' + key.slice(-4)
+    var name = '<td><a href="https://produkte.metro.de/shop/pv/' + url_from_key + '" target="_blank">' + row.name + '</a></td>';
+    var cat = '<td style="text-align:center;">' + row.category.split('/').slice(-1) + '</td>'
+    var price = '<td style="text-align:right;">' + row[Object.keys(row).slice(-2, -1)] + ' EUR</td>';
+
+    return price+cat+name;
 }
 
 d3.select('#status').text('Lade Daten...')
@@ -63,7 +60,6 @@ d3.select('input').on('input', (e) => {
         var visibles = 0;
         d3.select('tbody')
           .selectAll('tr')
-          .transition()
           .style('visibility', (tr) => {
             if (tr.name.toLowerCase().includes(d3.select('input').property('value').toLowerCase())) {
                 visibles += 1; // is that atomic?
