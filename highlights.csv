@@ -1,36 +1,113 @@
-key	category	name	offer-2023-12-08	default-2023-12-08	offer-2023-12-09	default-2023-12-09	offer-2023-12-10	default-2023-12-10	offer-2023-12-11	default-2023-12-11	offer-2023-12-12	default-2023-12-12
-BTY-X8868700320021	non-food/gastro-haushalt/geschirr-besteck-gläser/geschirr	Via Dipschale Gusto mit Henkel Porzellan Ø 6 cm	1.77	1.77	1.19	1.19	1.19	1.19	1.19	1.19	1.19	1.19
-BTY-X74600320021	food/fisch/süßwasserfische/zander	Zanderfilet, mit Haut, Trim B, ca. 400 - 900 g Stücke	31.02	31.02	31.02	31.02	31.02	31.02	31.02	31.02	19.25	19.25
-BTY-X28149100340021	food/trockensortiment/backen-zucker-mehl-salz-desserts	Callebaut Finest Belgian Chocolate Callets Vollmilchkuvertüre 33,6 % Kakao - 400 g Beutel	6.94	6.94	6.94	6.94	6.94	6.94	4.28	4.28	4.28	4.28
-BTY-X28149100330021	food/trockensortiment/backen-zucker-mehl-salz-desserts	Callebaut Finest Belgian Chocolate Callets Dunkle Schokoladenkuvertüre - 400 g Beutel	6.94	6.94	6.94	6.94	6.94	6.94	4.28	4.28	4.28	4.28
-BTY-X28149100320021	food/trockensortiment/backen-zucker-mehl-salz-desserts	Callebaut Nr. 811 Dark Callets Zartbitter 54,5 % Kakao - 400 g Beutel	6.94	6.94	6.94	6.94	6.94	6.94	4.28	4.28	4.28	4.28
-BTY-X42552600320021	food/fisch/salzwasserfische/kabeljau	Kabeljaulloins, frisch, gekühlt, ohne Haut, ca. 200 g	31.02	31.02	31.02	31.02	31.02	31.02	20.32	20.32	20.32	20.32
-BTY-X42552400320021	food/fisch/salzwasserfische/kabeljau	Kabeljauloins, frisch, gekühlt, mit Haut, ca. 200 g	31.02	31.02	31.02	31.02	31.02	31.02	20.32	20.32	20.32	20.32
-BTY-X44873700320021	food/alkoholfreie-getränke/tee-kaffee-kakao/kaffee-espresso	Eduscho Filterkaffee Klassisch gemahlen - 500 g Beutel	6.99	6.99					3.99	3.99	3.99	3.99
-BTY-X44685200320021	food/alkoholfreie-getränke/tee-kaffee-kakao/kaffee-espresso	Eduscho Caffè Crema Kräftig ganze Bohnen - 1 kg Beutel	14.99	14.99	14.99	14.99	14.99	14.99	9.99	9.99	9.99	9.99
-BTY-X44873700330021	food/alkoholfreie-getränke/tee-kaffee-kakao/kaffee-espresso	Eduscho Filterkaffee Kräftig gemahlen - 500 g Beutel	6.99	6.99	6.99	6.99			4.49	4.49	4.49	4.49
-BTY-X45263000320021	food/fisch/salzwasserfische/kabeljau	METRO Chef Kabeljau Loins ohne Haut frisch gekühlt ca. 200 g+ Stück MAP - je kg	29.41	29.41	29.41	29.41	29.41	29.41	20.32	20.32	20.32	20.32
-BTY-X43542800320021	food/gemüse/fruchtgemüse/tomate	Romatomaten, Spanien - 500 g Becher	2.56	2.56	2.56	2.56	2.56	2.56	1.81	1.81	1.81	1.81
-BTY-X43542800320022	food/gemüse/fruchtgemüse/tomate	Romatomaten, Spanien - 10 x 500 g Kiste	23.74	23.74	23.74	23.74	23.74	23.74	17.11	17.11	17.11	17.11
-BTY-Z125000320021	food/gemüse/kohlgemüse	Steckrüben Kiste	19.25	19.25	19.25	19.25	19.25	19.25	19.25	19.25	14.97	14.97
-BTY-X37970300330022	food/gemüse/kohlgemüse	Kohlröschen - Belgien - 10 x 200 g Kiste	36.37	36.37	36.37	36.37	36.37	36.37	26.74	26.74	26.74	26.74
-BTY-X37970300330021	food/gemüse/kohlgemüse	Kohlröschen - Belgien - 200 g Schachtel	3.73	3.73	3.73	3.73	3.73	3.73	2.77	2.77	2.77	2.77
-BTY-X44685200340021	food/alkoholfreie-getränke/tee-kaffee-kakao/kaffee-espresso	Eduscho Caffè Crema Variation ganze Bohnen - 1 kg Beutel					14.99	14.99	9.99	9.99	9.99	9.99
-BTY-Z106300320021	food/obst/äpfel	Äpfel Gala 1kg	2.66	2.66	2.66	2.66	2.66	2.66	2.66	2.66	2.13	2.13
-BTY-Z205100320021	food/obst/äpfel	Äpfel Jonagold 1kg	2.66	2.66	2.66	2.66	2.66	2.66	2.66	2.66	2.13	2.13
-BTY-Z106700320021	food/obst/äpfel	Äpfel Boskoop 1kg	2.66	2.66	2.66	2.66	2.66	2.66	2.66	2.66	2.13	2.13
-BTY-X37866800320022	food/obst/äpfel	Apfel Gala Deutschland - 11 x 1,00 kg Stücke	29.31	29.31	29.31	29.31	29.31	29.31	22.46	22.46	22.46	22.46
-BTY-X38007200320022	food/gemüse/kohlgemüse	Steckrüben - Deutschland - 8 x 500 g Kiste	19.25	19.25	19.25	19.25	19.25	19.25	14.97	14.97	14.97	14.97
-BTY-X38007200320021	food/gemüse/kohlgemüse	Steckrüben - Deutschland - 500 g	2.02	2.02	2.02	2.02	2.02	2.02	1.59	1.59	1.59	1.59
-BTY-X40423800320021	food/fisch/salzwasserfische/thunfisch	Thunfisch Loin AAA gekühlt 400 - 800 g Stücke - 5 kg	41.18	41.18	41.18	41.18	41.18	41.18	32.62	32.62	32.62	32.62
-BTY-X6893800320021	food/fleisch-wurstwaren/fleisch/geflügel/hähnchen	Hähnchenoberkeule ohne Haut und ohne Knochen - je kg	7.69	7.69	7.27	7.27	7.27	7.27	5.87	5.87	5.87	5.87
-BTY-Z7800320021	food/gemüse/kohlgemüse	Kohlrabi weiss Kiste					20.32	20.32	20.32	20.32	17.11	17.11
-BTY-X37866800320021	food/obst/äpfel	Apfel Gala Deutschland - 1,00 kg Stück	2.66	2.66	2.66	2.66	2.66	2.66	2.13	2.13	2.13	2.13
-BTY-X55355800320021	food/fleisch-wurstwaren/fleisch/rind/irish-beef	Eyckeler Malt Jungbullenkugel - 1,00 kg	12.62	12.62	12.29	12.29	12.29	12.29	9.94	9.94	9.94	9.94
-BTY-X55466900320021	food/fleisch-wurstwaren/fleisch/rind/argentinisches-rindfleisch	Argentinische Angus Rindersteakhüfte frisch, vorgereift, vak.-verpackt je kg	13.9	13.9	13.9	13.9	13.9	13.9	13.9	13.9	11.76	11.76
-BTY-Z114600320021	food/gemüse/kohlgemüse	Kohlrabi weiss Stück	1.06	1.06	1.06	1.06	1.06	1.06	1.06	1.06	0.91	0.91
-BTY-X7636200320021	food/fleisch-wurstwaren/fleisch/kalb	METRO Chef Kalb Oberschale mit Deckel gekühlt vak.-verpackt	15.83	15.83	15.29	15.29	15.29	15.29	12.83	12.83	12.83	12.83
-BTY-X39254100320021	food/fleisch-wurstwaren/fleisch/geflügel/hähnchen	Hähnchenoberkeule ohne Haut, ohne Knochen - ca. 2,5 kg	7.27	7.27	6.94	6.94	6.94	6.94	5.87	5.87	5.87	5.87
-BTY-Z5500320021	food/gemüse/kohlgemüse	Broccoli 5kg Kiste	18.18	18.18	18.18	18.18	18.18	18.18	18.18	18.18	15.93	15.93
-BTY-Z5700320021	food/gemüse/kohlgemüse	Broccoli 500g	1.92	1.92	1.92	1.92	1.92	1.92	1.92	1.92	1.7	1.7
-BTY-X38890800320021	food/fleisch-wurstwaren/fleisch/schwein/porco-ibérico	Alejandro Miguel Iberico Schweinenacken gekühlt ca. 1,8 kg Stück - je kg	22.46	22.46	22.46	22.46	22.46	22.46	22.46	22.46	19.89	19.89
+key	category	name	offer-2023-12-08	default-2023-12-08	offer-2023-12-09	default-2023-12-09	offer-2023-12-10	default-2023-12-10	offer-2023-12-11	default-2023-12-11	offer-2023-12-12	default-2023-12-12	offer-2023-12-13	default-2023-12-13
+BTY-X31686300500021	non-food/gastro-haushalt/servietten-kerzen/weihnachten	Tarrington House Spitze Ochsenblut matt 28 cm - 1 Stück	7.72	7.72	7.72	7.72	7.72	7.72	7.72	7.72	7.72	7.72	4.17	4.17
+BTY-X31686300360021	non-food/gastro-haushalt/servietten-kerzen/weihnachten	Tarrington House Spitze Silber Glanz 28 cm - 1 Stück	7.72	7.72							7.72	7.72	4.17	4.17
+BTY-X31686300340021	non-food/gastro-haushalt/servietten-kerzen/weihnachten	Tarrington House Spitze Porzellanweiß matt 28 cm - 1 Stück									7.72	7.72	4.17	4.17
+BTY-X31686300350021	non-food/gastro-haushalt/servietten-kerzen/weihnachten	Tarrington House Spitze Porzellanweiß Opal 28 cm - 1 Stück									7.72	7.72	4.17	4.17
+BTY-X37789000330022	non-food/freizeit-heimwerken-kfz/bastel-künstlerbedarf	Baier & Schneider Plakatkarton 48 x 68 cm Sonnengelb 10 Bögen - 10 Packungen	5.95	5.95	5.95	5.95	5.95	5.95	5.95	5.95	5.95	5.95	3.57	3.57
+BTY-X4602400330021	non-food/pflege-kosmetik-babynahrung/kinder-baby/babynahrung-babyflaschen	Hipp Bio Pflaume mit Birne Früchtezubereitung 190 g	0.64	0.64	0.64	0.64	0.64	0.64	0.64	0.64	0.64	0.64	0.43	0.43
+BTY-X26313000320021	non-food/gastro-haushalt/geschirr-besteck-gläser/gläser	APS Gourmetgläser 0,035 l	9.98	9.98	9.98	9.98	9.98	9.98	9.98	9.98	9.98	9.98	7.14	7.14
+BTY-X7440800320021	non-food/freizeit-heimwerken-kfz/spielwaren/kleinspielzeug	Mattel Hot Wheels Color Change Fahrzeuge 1:64	7.13	7.13	7.13	7.13	7.13	7.13	7.13	7.13	7.13	7.13	5.46	4.76
+BTY-X40301800320021	non-food/freizeit-heimwerken-kfz/spielwaren/basteln-bauen-knobeln	Franzis Porsche 911, 6-Zylinder-Boxermotor	130.89	130.89	130.89	130.89	130.89	130.89	130.89	130.89	130.89	130.89	101.15	101.15
+BTY-X33679800320021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Skat - französisches Bild, großen Eckzeichen	2.96	2.96	2.96	2.96	2.96	2.96	2.96	2.96	2.96	2.96	2.38	2.38
+BTY-X33680800320021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Poker - Französisches Bild, Kunststoffetui	2.96	2.96	2.96	2.96	2.96	2.96	2.96	2.96	2.96	2.96	2.38	2.38
+BTY-X52042200320021	non-food/freizeit-heimwerken-kfz/spielwaren/kleinspielzeug	Mattel Hot Wheels Auto Basis Essentials	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X72795800320022	non-food/freizeit-heimwerken-kfz/spielwaren/kleinspielzeug	Mattel Hot Wheels MB Fahrzeuge 1:75 sortiert Matchbox 1:64 rollierend	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33682500340021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Tier-Quartett Original	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33682500320021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Tier-Quartett Kaminkehrer	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33682500330021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Tier-Quartett Kater Schnurr	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33682900340021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Top Ass Tier Quartett Dinosaurier	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683500320021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Top Ass Quartett Fahrzeug Edel Flitzer	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683500410021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Top Ass Quartett Fahrzeug Motorsport	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683500420021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Top Ass Quartett Fahrzeug Traktoren	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683500400021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Top Ass Quartett Fahrzeug Motorräder	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683200340021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Tier-Quartett Bauernhof	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683200350021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Tier-Quartett Tierkinder	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683200320021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Tier-Quartett Pferde	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683500380021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Top Ass Quartett Fahrzeug Notruf	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683500390021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Top Ass Quartett Fahrzeug Formel 1	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683500360021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Top Ass Quartett Fahrzeug Jets	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683500370021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Top Ass Quartett Fahrzeug Schiffe	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683500340021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Top Ass Quartett Fahrzeug Luxusklasse	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683500350021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Top Ass Quartett Fahrzeug Tuning	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33683500330021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Top Ass Quartett Fahrzeug Prototypen	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	2.37	1.96	1.79
+BTY-X33679700320021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Skat - französisches Bild, Leinenprägung	3.56	3.56	3.56	3.56	3.56	3.56	3.56	3.56	3.56	3.56	2.96	2.38
+BTY-X34967500320021	non-food/freizeit-heimwerken-kfz/spielwaren/kleinspielzeug	Mattel Hot Wheels Monster Trucks 1:64 2er Pack	14.27	14.27	14.27	14.27	14.27	14.27	14.27	14.27	14.27	14.27	11.9	11.9
+BTY-X39684100320021	non-food/gastro-haushalt/geschirr-besteck-gläser/gläser	Nachtmann Longdrink Set	23.79	20.22	23.79	20.22	23.79	20.22	23.79	20.22	23.79	20.22	19.98	19.98
+BTY-X42668500320021	non-food/gastro-haushalt/geschirr-besteck-gläser/gläser	Nachtmann Gin Tonic Set, 4 Gläser + 4 Trinkhalme	23.79	20.22	23.79	20.22	23.79	20.22	23.79	20.22	23.79	20.22	19.98	19.98
+BTY-X36696600320021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Doppelkopf französisches Bild	2.96	2.96	2.96	2.96	2.96	2.96	2.96	2.96	2.96	2.96	2.49	2.38
+BTY-X33681200320021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Skat - deutsches Bild, Kunststoffetui	1.77	1.77	1.77	1.77	1.77	1.77	1.77	1.77	1.77	1.77	1.54	1.19
+BTY-X33675500320021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Romme Franzoesisches Bild	4.75	4.75	4.75	4.75	4.75	4.75	4.75	4.75	4.75	4.75	4.15	3.57
+BTY-X66871100320022	non-food/freizeit-heimwerken-kfz/spielwaren/kleinspielzeug	Mattel Hot Wheels 5er Geschenkset Essentials	10.1	10.1	10.1	10.1	10.1	10.1	10.1	10.1	10.1	10.1	8.91	8.33
+BTY-X34967400320021	non-food/freizeit-heimwerken-kfz/spielwaren/kleinspielzeug	Mattel Hot Wheels Monster Trucks 1:64 sortiert	7.13	7.13	7.13	7.13	7.13	7.13	7.13	7.13	7.13	7.13	6.3	5.95
+BTY-X33678800320021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Skat Französisches Bild - 66 g Stück	1.06	1.06	1.06	1.06	1.06	1.06	1.06	1.06	1.06	1.06	0.94	0.83
+BTY-X33679400320021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Skat - französisches Bild, Kunststoffetui	1.06	1.06	1.06	1.06	1.06	1.06	1.06	1.06	1.06	1.06	0.94	0.83
+BTY-X33679600320021	non-food/freizeit-heimwerken-kfz/spielwaren/gesellschaftsspiele	Ass Skat - französisches Bild (Kunststoffetui), 10er Verpackung	10.7	10.7	10.7	10.7	10.7	10.7	10.7	10.7	10.7	10.7	9.51	8.33
+BTY-X16206800320021	food/trockensortiment/gewürze	FUCHS Piment ganz - 19 g Beutel	1.61	1.61	1.61	1.61	1.61	1.61	1.61	1.61	1.61	1.61	1.07	1.07
+BTY-X6426700320021	food/trockensortiment/gewürze	FUCHS Petersilie gerebelt - 15 g Packung	1.61	1.61	1.61	1.61	1.61	1.61	1.61	1.61	1.61	1.61	1.07	1.07
+BTY-X74600320021	food/fisch/süßwasserfische/zander	Zanderfilet, mit Haut, Trim B, ca. 400 - 900 g Stücke	31.02	31.02	31.02	31.02	31.02	31.02	31.02	31.02	19.25	19.25	19.25	19.25
+BTY-X6429200320021	food/trockensortiment/gewürze	FUCHS Pfeffer Weiß gemahlen - 1 x 70 g Packung	2.14	2.14	2.14	2.14	2.14	2.14	2.14	2.14	2.14	2.14	1.61	1.61
+BTY-X42552600320021	food/fisch/salzwasserfische/kabeljau	Kabeljaulloins, frisch, gekühlt, ohne Haut, ca. 200 g	31.02	31.02	31.02	31.02	31.02	31.02	20.32	20.32	20.32	20.32	20.32	20.32
+BTY-X42552400320021	food/fisch/salzwasserfische/kabeljau	Kabeljauloins, frisch, gekühlt, mit Haut, ca. 200 g	31.02	31.02	31.02	31.02	31.02	31.02	20.32	20.32	20.32	20.32	20.32	20.32
+BTY-X44685200320021	food/alkoholfreie-getränke/tee-kaffee-kakao/kaffee-espresso	Eduscho Caffè Crema Kräftig ganze Bohnen - 1 kg Beutel	14.99	14.99	14.99	14.99	14.99	14.99	9.99	9.99	9.99	9.99	9.99	9.99
+BTY-X44873700330021	food/alkoholfreie-getränke/tee-kaffee-kakao/kaffee-espresso	Eduscho Filterkaffee Kräftig gemahlen - 500 g Beutel	6.99	6.99	6.99	6.99			4.49	4.49	4.49	4.49	4.49	4.49
+BTY-X46398200320021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Dithmarscher Geflügel Junge Gans aus Freilandhaltung tiefgefroren, ca. 3,6 - 6 kg Stücke, deutsche Herkunft, vak.-verpackt 12 kg Karton	14.97	14.97	14.97	14.97	14.97	14.97	14.97	14.97	14.97	14.97	11.76	11.76
+BTY-X45263000320021	food/fisch/salzwasserfische/kabeljau	METRO Chef Kabeljau Loins ohne Haut frisch gekühlt ca. 200 g+ Stück MAP - je kg	29.41	29.41	29.41	29.41	29.41	29.41	20.32	20.32	20.32	20.32	20.32	20.32
+BTY-X34308500360021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Cedrob Polnische Hafermastgans, tiefgefroren - ca. 4 kg Stück	23.93	23.93	23.93	23.93	23.93	23.93	23.93	23.93	23.93	23.93	19.0	19.0
+BTY-X12371600330021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Polnische Hafermastgans tiefgefroren - ca. 3,8 kg Stück	22.73	22.73	22.73	22.73	22.73	22.73	22.73	22.73	22.73	22.73	18.05	18.05
+BTY-X12608800350021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Roldrob Polnische Hafermastgans tiefgefroren - ca. 4,8 kg Stück	28.71	28.71	28.71	28.71	28.71	28.71	28.71	28.71	28.71	28.71	22.8	22.8
+BTY-X34308600350021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Cedrob Polnische Hafermastgans, tiefgefroren - ca. 4,8 kg Stück	28.71	28.71	28.71	28.71	28.71	28.71	28.71	28.71	28.71	28.71	22.8	22.8
+BTY-X12373800350021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Polnische Hafermastgans tiefgefroren - ca. 4,8 kg Stück	28.71	28.71									22.8	22.8
+BTY-X12608800330022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Roldrob Polnische Hafermastgans tiefgefroren - 3 x ca. 4,4 kg Karton	78.96	78.96	78.96	78.96	78.96	78.96	78.96	78.96	78.96	78.96	62.71	62.71
+BTY-X34308600330022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Cedrob Polnische Hafermastgans, tiefgefroren - 3 x ca. 4,4 kg Stücke	78.96	78.96	78.96	78.96	78.96	78.96	78.96	78.96	78.96	78.96	62.71	62.71
+BTY-X12373800330022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Polnische Hafermastgans tiefgefroren - 3 x ca. 4,4 kg Stücke	78.96	78.96	78.96	78.96	78.96	78.96	78.96	78.96	78.96	78.96	62.71	62.71
+BTY-X12371600330022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Polnische Hafermastgans tiefgefroren - 4 x ca. 3,8 kg Stücke	90.92	90.92	90.92	90.92	90.92	90.92	90.92	90.92	90.92	90.92	72.21	72.21
+BTY-X34308500340021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Cedrob Polnische Hafermastgans, tiefgefroren - ca. 3,6 kg Stück	21.53	21.53	21.53	21.53	21.53	21.53	21.53	21.53	21.53	21.53	17.1	17.1
+BTY-X12371600320021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Polnische Hafermastgans tiefgefroren - ca. 3,6 kg Stück	21.53	21.53	21.53	21.53	21.53	21.53	21.53	21.53	21.53	21.53	17.1	17.1
+BTY-X34308500360022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Cedrob Polnische Hafermastgans, tiefgefroren - 4 x ca. 4 kg Stück	95.7	95.7	95.7	95.7	95.7	95.7	95.7	95.7	95.7	95.7	76.01	76.01
+BTY-X12373800340021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Polnische Hafermastgans tiefgefroren - ca. 4,6 kg Stück	27.51	27.51	27.51	27.51	27.51	27.51	27.51	27.51	27.51	27.51	21.85	21.85
+BTY-X12608800340021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Roldrob Polnische Hafermastgans tiefgefroren - ca. 4,6 kg Stück	27.51	27.51	27.51	27.51	27.51	27.51	27.51	27.51	27.51	27.51	21.85	21.85
+BTY-X34308600340021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Cedrob Polnische Hafermastgans, tiefgefroren - ca. 4,6 kg Stück	27.51	27.51	27.51	27.51	27.51	27.51	27.51	27.51	27.51	27.51	21.85	21.85
+BTY-X12373800340022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Polnische Hafermastgans tiefgefroren - 3 x ca. 4,6 kg Stücke	82.54	82.54	82.54	82.54	82.54	82.54	82.54	82.54	82.54	82.54	65.56	65.56
+BTY-X12608800340022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Roldrob Polnische Hafermastgans tiefgefroren - 3 x ca. 4,6 kg Stücke	82.54	82.54	82.54	82.54	82.54	82.54	82.54	82.54	82.54	82.54	65.56	65.56
+BTY-X34308600340022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Cedrob Polnische Hafermastgans, tiefgefroren - 3 x ca. 4,6 kg Stücke	82.54	82.54	82.54	82.54	82.54	82.54	82.54	82.54	82.54	82.54	65.56	65.56
+BTY-X12608800350022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Roldrob Polnische Hafermastgans tiefgefroren - 3 x ca. 4,8 kg Stücke	86.14	86.14	86.14	86.14	86.14	86.14	86.14	86.14	86.14	86.14	68.42	68.42
+BTY-X34308600350022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Cedrob Polnische Hafermastgans, tiefgefroren - 3 x ca. 4,8 kg Stück	86.14	86.14	86.14	86.14	86.14	86.14	86.14	86.14	86.14	86.14	68.42	68.42
+BTY-X12373800350022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Polnische Hafermastgans tiefgefroren - 3 x ca. 4,8 kg Stücke	86.14	86.14									68.42	68.42
+BTY-X34308500340022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Cedrob Polnische Hafermastgans, tiefgefroren - 4 x ca. 3,6 kg Stücke	86.14	86.14	86.14	86.14	86.14	86.14	86.14	86.14	86.14	86.14	68.42	68.42
+BTY-X12371600320022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Polnische Hafermastgans tiefgefroren - 4 x ca. 3,6 kg Stücke	86.14	86.14	86.14	86.14	86.14	86.14	86.14	86.14	86.14	86.14	68.42	68.42
+BTY-X34308600320022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Cedrob Polnische Hafermastgans, tiefgefroren - 3 x ca. 4,2 kg Stücke	75.36	75.36	75.36	75.36	75.36	75.36	75.36	75.36	75.36	75.36	59.86	59.86
+BTY-X12608800320022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Roldrob Polnische Hafermastgans tiefgefroren - 3 x ca. 4,2 kg Stücke	75.36	75.36	75.36	75.36	75.36	75.36	75.36	75.36	75.36	75.36	59.86	59.86
+BTY-X12373800320022	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Polnische Hafermastgans tiefgefroren - 3 x ca. 4,2 kg Stücke	75.36	75.36	75.36	75.36	75.36	75.36	75.36	75.36	75.36	75.36	59.86	59.86
+BTY-X12608800330021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Roldrob Polnische Hafermastgans tiefgefroren - ca. 4,4 kg Stück	26.32	26.32	26.32	26.32	26.32	26.32	26.32	26.32	26.32	26.32	20.91	20.91
+BTY-X34308600330021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Cedrob Polnische Hafermastgans, tiefgefroren - ca. 4,4 kg Stück	26.32	26.32	26.32	26.32	26.32	26.32	26.32	26.32	26.32	26.32	20.91	20.91
+BTY-X12373800330021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Polnische Hafermastgans tiefgefroren - ca. 4,4 kg Stück	26.32	26.32	26.32	26.32	26.32	26.32	26.32	26.32	26.32	26.32	20.91	20.91
+BTY-X34308600320021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Cedrob Polnische Hafermastgans, tiefgefroren - ca. 4,2 kg Stück	25.12	25.12	25.12	25.12	25.12	25.12	25.12	25.12	25.12	25.12	19.96	19.96
+BTY-X12608800320021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Roldrob Polnische Hafermastgans tiefgefroren - ca. 4,2 kg Stück	25.12	25.12	25.12	25.12	25.12	25.12	25.12	25.12	25.12	25.12	19.96	19.96
+BTY-X12373800320021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Polnische Hafermastgans tiefgefroren - ca. 4,2 kg Stück	25.12	25.12	25.12	25.12	25.12	25.12	25.12	25.12	25.12	25.12	19.96	19.96
+BTY-X44873700320021	food/alkoholfreie-getränke/tee-kaffee-kakao/kaffee-espresso	Eduscho Filterkaffee Klassisch gemahlen - 500 g Beutel	6.99	6.99					3.99	3.99	3.99	3.99	3.99	3.99
+BTY-X43542800320021	food/gemüse/fruchtgemüse/tomate	Romatomaten, Spanien - 500 g Becher	2.56	2.56	2.56	2.56	2.56	2.56	1.81	1.81	1.81	1.81	1.81	1.81
+BTY-X43542800320022	food/gemüse/fruchtgemüse/tomate	Romatomaten, Spanien - 10 x 500 g Kiste	23.74	23.74	23.74	23.74	23.74	23.74	17.11	17.11	17.11	17.11	17.11	17.11
+BTY-X37774600320021	food/fleisch-wurstwaren/fleisch-tiefgekühlt	Klaas & Pitsch Gänsebrust sous vide gegart, tiefgefroren, 10 Stück à ca. 200 g	26.74	26.74	26.74	26.74	26.74	26.74	26.74	26.74	24.6	24.6	21.39	21.39
+BTY-Z125000320021	food/gemüse/kohlgemüse	Steckrüben Kiste	19.25	19.25	19.25	19.25	19.25	19.25	19.25	19.25	14.97	14.97	14.97	14.97
+BTY-X37970300330022	food/gemüse/kohlgemüse	Kohlröschen - Belgien - 10 x 200 g Kiste	36.37	36.37	36.37	36.37	36.37	36.37	26.74	26.74	26.74	26.74	26.74	26.74
+BTY-X37970300330021	food/gemüse/kohlgemüse	Kohlröschen - Belgien - 200 g Schachtel	3.73	3.73	3.73	3.73	3.73	3.73	2.77	2.77	2.77	2.77	2.77	2.77
+BTY-Z106300320021	food/obst/äpfel	Äpfel Gala 1kg	2.66	2.66	2.66	2.66	2.66	2.66	2.66	2.66	2.13	2.13	2.13	2.13
+BTY-Z205100320021	food/obst/äpfel	Äpfel Jonagold 1kg	2.66	2.66	2.66	2.66	2.66	2.66	2.66	2.66	2.13	2.13	2.13	2.13
+BTY-Z106700320021	food/obst/äpfel	Äpfel Boskoop 1kg	2.66	2.66	2.66	2.66	2.66	2.66	2.66	2.66	2.13	2.13	2.13	2.13
+BTY-X22270700320022	food/alkoholische-getränke/wein	Vinosia Primitivo Salénde Appassimento Primitivo Rotwein - 6 x 750 ml Flaschen									67.76	57.05	57.05	57.05
+BTY-X22270700320021	food/alkoholische-getränke/wein	Vinosia Primitivo Salénde Appassimento Primitivo Rotwein - 750 ml Flasche									11.29	9.51	9.51	9.51
+BTY-X37866800320022	food/obst/äpfel	Apfel Gala Deutschland - 11 x 1,00 kg Stücke	29.31	29.31	29.31	29.31	29.31	29.31	22.46	22.46	22.46	22.46	22.46	22.46
+BTY-X38007200320022	food/gemüse/kohlgemüse	Steckrüben - Deutschland - 8 x 500 g Kiste	19.25	19.25	19.25	19.25	19.25	19.25	14.97	14.97	14.97	14.97	14.97	14.97
+BTY-X44685200340021	food/alkoholfreie-getränke/tee-kaffee-kakao/kaffee-espresso	Eduscho Caffè Crema Variation ganze Bohnen - 1 kg Beutel					14.99	14.99	9.99	9.99	9.99	9.99	9.99	9.99
+BTY-X38007200320021	food/gemüse/kohlgemüse	Steckrüben - Deutschland - 500 g	2.02	2.02	2.02	2.02	2.02	2.02	1.59	1.59	1.59	1.59	1.59	1.59
+BTY-X40423800320021	food/fisch/salzwasserfische/thunfisch	Thunfisch Loin AAA gekühlt 400 - 800 g Stücke - 5 kg	41.18	41.18	41.18	41.18	41.18	41.18	32.62	32.62	32.62	32.62	32.62	32.62
+BTY-X6893800320021	food/fleisch-wurstwaren/fleisch/geflügel/hähnchen	Hähnchenoberkeule ohne Haut und ohne Knochen - je kg	7.69	7.69	7.27	7.27	7.27	7.27	5.87	5.87	5.87	5.87	5.87	5.87
+BTY-X37866800320021	food/obst/äpfel	Apfel Gala Deutschland - 1,00 kg Stück	2.66	2.66	2.66	2.66	2.66	2.66	2.13	2.13	2.13	2.13	2.13	2.13
+BTY-X55355800320021	food/fleisch-wurstwaren/fleisch/rind/irish-beef	Eyckeler Malt Jungbullenkugel - 1,00 kg	12.62	12.62	12.29	12.29	12.29	12.29	9.94	9.94	9.94	9.94	9.94	9.94
+BTY-X55466900320021	food/fleisch-wurstwaren/fleisch/rind/argentinisches-rindfleisch	Argentinische Angus Rindersteakhüfte frisch, vorgereift, vak.-verpackt je kg	13.9	13.9	13.9	13.9	13.9	13.9	13.9	13.9	11.76	11.76	11.76	11.76
+BTY-X171600320021	food/fisch/süßwasserfische/lachs	METRO Chef Bömlo Lachs ausgenommen mit Kopf, ca. 4 - 5 kg - je kg	10.69	10.69	10.69	10.69	10.69	10.69	12.83	12.83	12.83	12.83	10.15	10.15
+BTY-Z114600320021	food/gemüse/kohlgemüse	Kohlrabi weiss Stück	1.06	1.06	1.06	1.06	1.06	1.06	1.06	1.06	0.91	0.91	0.91	0.91
+BTY-Z7800320021	food/gemüse/kohlgemüse	Kohlrabi weiss Kiste					20.32	20.32	20.32	20.32	17.11	17.11	17.11	17.11
+BTY-X7636200320021	food/fleisch-wurstwaren/fleisch/kalb	METRO Chef Kalb Oberschale mit Deckel gekühlt vak.-verpackt	15.83	15.83	15.29	15.29	15.29	15.29	12.83	12.83	12.83	12.83	12.83	12.83
+BTY-X39254100320021	food/fleisch-wurstwaren/fleisch/geflügel/hähnchen	Hähnchenoberkeule ohne Haut, ohne Knochen - ca. 2,5 kg	7.27	7.27	6.94	6.94	6.94	6.94	5.87	5.87	5.87	5.87	5.87	5.87
+BTY-Z5500320021	food/gemüse/kohlgemüse	Broccoli 5kg Kiste	18.18	18.18	18.18	18.18	18.18	18.18	18.18	18.18	15.93	15.93	15.93	15.93
