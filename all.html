@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>metroscreener - all data</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.light.js"></script>
 </head>
 <body>
     <h3>Das ist die vollständige Liste aller Waren, die aktuellen Angebote gibts <a href="index.html">hier</a>!</h3>
@@ -68,10 +69,7 @@ d3.select('input').on('input', (e) => {
       .style('display', 'none');
 
     matches = index.search(value)
-    console.log(matches)
-    for (var i in matches) {
-        document.getElementById(i).style.display = null;
-    }
+    matches.forEach( i => {document.getElementById(i).style.display = null});
 
     d3.select('#status').text(matches.length + ' Einträge')
 });

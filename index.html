@@ -69,10 +69,7 @@ d3.select('input').on('input', (e) => {
       .style('display', 'none');
 
     matches = index.search(value)
-    console.log(matches)
-    for (var i in matches) {
-        document.getElementById(i).style.display = null;
-    }
+    matches.forEach( i => {document.getElementById(i).style.display = null});
 
     d3.select('#status').text(matches.length + ' Einträge')
 });
