@@ -4,16 +4,16 @@
     <meta charset="UTF-8">
     <title>metroscreener - current highlights</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.light.js"></script>
 </head>
 <body>
     <h3>Das sind die aktuellen Angebote, die vollständige Liste aller Waren gibts <a href="all.html">hier</a>!</h3>
     <table>
         <thead style="position: sticky; top: 0; z-index: 1;">
             <tr style="background-color: white;">
-                <th id="status" width="140px" height="30px"></th>
-                <th></th>
-                <th style="text-align: left;">
-                    <input type="text" size="60" placeholder="Nach Beschreibung Suchen">
+                <th id="status" width="140px" height="30px" ></th>
+                <th style="text-align: left;" colspan="2">
+                    <input type="text" size="100%" placeholder="Nach Beschreibung Suchen">
                 </th>
             </tr>
         </thead>
@@ -21,62 +21,60 @@
     </table>
 </body>
     <script>
-function row_to_html_string(row) {
+var index = new FlexSearch.Index({tokenize:'full'});
+var total_count = 0;
+
+function row_to_html_string(row, i) {
     var key = row.key;
     var url_from_key = key.slice(0, -8) + '/' + key.slice(-8,-4) + '/' + key.slice(-4)
     var name = '<td><a href="https://produkte.metro.de/shop/pv/' + url_from_key + '" target="_blank">' + row.name + '</a></td>';
     var cat = '<td style="text-align:center;">' + row.category.split('/').slice(-1) + '</td>'
     var price = '<td style="text-align:right;">' + row[Object.keys(row).slice(-2, -1)] + ' EUR</td>';
 
+    index.add(i, row.name);
+    index.add(i, row.category);
+    total_count = Math.max(total_count, i);
+    d3.select('#status').text(total_count + ' Einträge')
+
     return price+cat+name;
 }
 
 d3.select('#status').text('Lade Daten...')
-var total_count = 0;
+
 d3.tsv('highlights.csv').then((data) => {
     d3.select('tbody')
       .selectAll('tr')
       .data(data)
       .enter()
       .append('tr')
-      .style('visibility', 'visible')
-      .attr('name', (row) => {return row.name;})
-      .html(row_to_html_string)
-      .transition()
-      .on('end', (_, i) => {
-        total_count = Math.max(total_count, i);
-        d3.select('#status').text(total_count + ' Einträge')
-      });
+      .attr('id', (row, i) => {return i;})
+      .html(row_to_html_string);
 });
 
 var timer = null;
 d3.select('input').on('input', (e) => {
-    clearTimeout(timer);
-    timer = setTimeout(function () {
-        d3.select('#status').text('Lade Daten...')
-        d3.select('tbody').style('visibility', 'collapse');
-        d3.select('input').attr('disabled', true);
-
-        var visibles = 0;
+    var value = d3.select('input').property('value');
+    if (value.length == 0) {
         d3.select('tbody')
           .selectAll('tr')
-          .style('visibility', (tr) => {
-            if (tr.name.toLowerCase().includes(d3.select('input').property('value').toLowerCase())) {
-                visibles += 1; // is that atomic?
-                return 'visible';
-            } else {
-                return 'collapse';
-            }
-          })
-          .on('end', (tr, i) => {
-            if (i == total_count) {
-                d3.select('tbody').style('visibility', 'visible');
-                d3.select('input').attr('disabled', null);
-                d3.select('#status').text(visibles + ' Einträge')
-            }
-          });
+          .style('display', null);
 
-    }, 400);
+        d3.select('#status').text(total_count + ' Einträge')
+
+        return;
+    }
+
+    d3.select('tbody')
+      .selectAll('tr')
+      .style('display', 'none');
+
+    matches = index.search(value)
+    console.log(matches)
+    for (var i in matches) {
+        document.getElementById(i).style.display = null;
+    }
+
+    d3.select('#status').text(matches.length + ' Einträge')
 });
 
 
